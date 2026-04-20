@@ -31,6 +31,6 @@ Bowling & Firing Range VR Prototypes
 
 - UI World Space Score
 
-  ![Screenshot](Firing_Range_Demo.png)
-
 - Magazine Spawner Pushable Button
+
+  ![Screenshot](Firing_Range_Demo.png)
