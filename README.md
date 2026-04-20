@@ -15,6 +15,8 @@ Bowling & Firing Range VR Prototypes
 
 - UI World Space Reset Button
 
+  ![Screenshot](Bowling_Demo.png)
+
 ---
 
 <h3>Firing Range Scene Features:</h3>
@@ -28,5 +30,7 @@ Bowling & Firing Range VR Prototypes
 - Spawning + Moving Targets
 
 - UI World Space Score
+
+  ![Screenshot](Firing_Range_Demo.png)
 
 - Magazine Spawner Pushable Button
